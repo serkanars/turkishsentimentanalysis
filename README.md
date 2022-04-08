@@ -1,4 +1,4 @@
-# turkishsentimentanalysis
+# Turkish Sentiment Analysis
 LSTM ile Türkçe Duygu Analizi
 
 Uygulamayı Ubuntu 18.04 işletim sistemi üzerinde, Jupyter Notebook geliştirme ortamı ile python 3.6.9 ve tensorflow 1.14.0 versiyonlarını kullanarak geliştirdim.
